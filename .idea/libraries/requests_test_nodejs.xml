@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="requests-test-nodejs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.serverless/requests-test-nodejs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
